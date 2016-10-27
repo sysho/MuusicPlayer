@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="music_title">20sp</dimen>
+    <dimen name="music_list_title">20sp</dimen>
+    <dimen name="widget_title_size">20sp</dimen>
+    <dimen name="news_detail">16sp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="news_item_title">19sp</dimen>
+    <dimen name="text_size1">20sp</dimen>
+    <dimen name="title">22sp</dimen>
+    <dimen name="button_size">40sp</dimen>
+
+</resources>
